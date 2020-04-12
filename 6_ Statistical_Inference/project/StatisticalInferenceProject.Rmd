@@ -1,13 +1,12 @@
 ---
 title: "Statistical Inference Project Part 1"
-author: "Michael Galarnyk"
-date: "May 27, 2017"
+author: "jon Sherretts"
+date: "April 12, 2020"
 output: html_document
 ---
 
-Github repo for the Course: [Statistical Inference](https://github.com/mGalarnyk/datasciencecoursera/tree/master/6_%20Statistical_Inference)
+Github repo for the Course: [Statistical Inference](https://github.com/jsherretts/datasciencecoursera/edit/master/6_%20Statistical_Inference/project/StatisticalInferenceProject.Rmd)
 </br>
-Github repo for Rest of Specialization: [Data Science Coursera](https://github.com/mGalarnyk/datasciencecoursera)
 
 ## Instructions
 
